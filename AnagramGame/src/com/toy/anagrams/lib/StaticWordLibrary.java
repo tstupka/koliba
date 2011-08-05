@@ -142,6 +142,7 @@ final class StaticWordLibrary extends WordLibrary {
 
     /**
      * Gets the word at a given index.
+     * Comment: 
      * @param idx index of required word
      * @return word at that index in its natural form
      */
