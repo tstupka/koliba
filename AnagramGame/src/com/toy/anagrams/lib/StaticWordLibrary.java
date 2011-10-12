@@ -27,13 +27,10 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
  */
 
-/* Anagram Game Application */
-
 package com.toy.anagrams.lib;
 
 /**
  * Implementation of the logic for the Anagram Game application.
- * 
  */
 final class StaticWordLibrary extends WordLibrary {
 
